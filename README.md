@@ -6,6 +6,13 @@
 <img width="1641" height="1307" alt="image" src="https://github.com/user-attachments/assets/348fd287-8f87-455d-a22d-0fbc6c51a840" />
 
 
+What I recommend you install first (in order)
+	1.	Netdata → immediate learning
+	2.	Grafana + node_exporter → long term understanding
+	3.	Cockpit → daily usability
+	4.	Portainer → service architecture understanding
+
+You can literally do all 4 in one weekend and your homelab instantly turns into a mini cloud environment.
 # Home-Cloud
 
 A personal homelab platform that turns a few machines into a small self-hosted cloud.
