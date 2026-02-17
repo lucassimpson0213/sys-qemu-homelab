@@ -14,6 +14,6 @@ A lightweight “software homelab” using QEMU VMs on macOS:
   brew install qemu
 
 
-  <img width="1641" height="1307" alt="image" src="https://github.com/user-attachments/assets/348fd287-8f87-455d-a22d-0fbc6c51a840" />
+<img width="1641" height="1307" alt="image" src="https://github.com/user-attachments/assets/348fd287-8f87-455d-a22d-0fbc6c51a840" />
 
 
