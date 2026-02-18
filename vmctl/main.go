@@ -1,11 +1,9 @@
 package main
 
-
 import (
 	"fmt"
+	libvert "libvirt.org/go/libvirt"
 	"os/exec"
-	"libvirt.org/go/libvirt"
-
 )
 
 func main() {
@@ -20,7 +18,7 @@ func get_vms() {
 	// arg1 := "--all"
 	// arg2 := "\n\tfrom"
 	// arg3 := "golang"
-
+	libvert.GetVersion()
 	cmd := exec.Command(app)
 	stdout, err := cmd.Output()
 
