@@ -226,22 +226,6 @@ Building this teaches real cloud mechanics:
 
 This mirrors AWS EC2, Proxmox, and private cloud platforms.
 
----
-
-## Core Learning Goals
-
-* Linux system administration
-* networking
-* distributed systems
-* observability
-* reliability engineering
-* deployment automation
-
-The homelab becomes a safe environment to experiment, break systems, and rebuild them.
-
----
-
-## Conceptual Takeaway
 
 A server is not a device.
 
